@@ -1,4 +1,5 @@
 <?php
+//<!--version 1.1 -->
 $servername="localhost";
 $username="root";
 $password="student";

@@ -1,6 +1,6 @@
 <?php
 include 'db.php';
-
+//<!--version 1.1 -->
 if (isset($_GET['id']) && isset($_GET['name']) && isset($_GET['price']) && isset($_GET['description'])) {
     $id = $_GET['id'];
     $name = $_GET['name'];

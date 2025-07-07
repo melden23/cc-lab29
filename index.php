@@ -1,5 +1,6 @@
 <?php
 include 'db.php';
+//<!--version 1.1 -->
 $result = $conn->query("SELECT * FROM menu_items");
 ?>
 

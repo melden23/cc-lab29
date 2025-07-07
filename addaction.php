@@ -1,4 +1,5 @@
 <?php
+//<!--version 1.1 -->
 include 'db.php';
 
 $name=$_GET['name'];

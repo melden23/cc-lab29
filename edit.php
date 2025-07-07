@@ -1,6 +1,6 @@
 <?php
 include 'db.php';
-
+//<!--version 1.1 -->
 if (isset($_GET['id'])) {
     $id = $_GET['id'];
     $result = $conn->query("SELECT * FROM menu_items WHERE id = $id");
